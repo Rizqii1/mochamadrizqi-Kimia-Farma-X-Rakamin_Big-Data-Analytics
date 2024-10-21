@@ -1,4 +1,3 @@
-
 -- Membuat tabel analisa dengan kolom-kolom yang dibutuhkan
 --CREATE TABLE dataset_rakamin.analisa AS 
 --WITH product_laba AS (
