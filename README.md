@@ -1,4 +1,4 @@
-Repository ini berisi proyek akhir untuk Program Big Data Analytics Kimia Farma x Rakamin Academy. Proyek ini melibatkan analisis data penjualan dan kinerja cabang Kimia Farma (Data Tidak Asli) menggunakan SQL dan Google Looker Studio. Tujuannya adalah untuk membuat dashboard yang memberikan wawasan guna mendukung pengambilan keputusan berbasis data.
+proyek akhir untuk Program Big Data Analytics Kimia Farma x Rakamin Academy. Proyek ini melibatkan analisis data penjualan dan kinerja cabang Kimia Farma (Data Tidak Asli) menggunakan SQL dan Google Looker Studio. Tujuannya adalah untuk membuat dashboard yang memberikan wawasan guna mendukung pengambilan keputusan berbasis data.
 
 Ringkasan Proyek
 Proyek ini mencakup:
