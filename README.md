@@ -6,3 +6,5 @@ Proyek ini mencakup:
 Query SQL yang digunakan untuk memproses dan menganalisis data transaksi dari cabang-cabang Kimia Farma.
 Dashboard Google Looker Studio untuk memvisualisasikan wawasan seperti tren penjualan, laba bersih, peringkat cabang, dan lainnya.
 File data yang diperlukan untuk mereplikasi dan memahami analisis ini.
+
+Link Tableau : https://public.tableau.com/app/profile/mochamad.rizqi/viz/Project_17308659750370/Dashboard1?publish=yes
