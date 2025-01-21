@@ -42,5 +42,11 @@ This project analyzes Kimia Farma's (non-authentic) sales and branch performance
 
 
 Link Tableau : https://public.tableau.com/app/profile/mochamad.rizqi/viz/Project_17308659750370/Dashboard1?publish=yes
-
 Link LookerStudio : https://lookerstudio.google.com/reporting/d6df0b5c-8c33-4290-8121-374260b12ffa
+
+
+## Contact Information
+Mochamad Rizqi,
+Big Data Analyst Intern
+
+Email: mochamadrizqii1@gmail.com
