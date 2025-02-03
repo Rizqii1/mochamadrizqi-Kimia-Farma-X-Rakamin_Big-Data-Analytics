@@ -1,4 +1,4 @@
-# Kimia Farma x Rakamin Academy - Big Data Analytics Final Project
+# Big Data Analytics - Kimia Farma x Rakamin Academy Final Project
 
 ## Overview
 This project analyzes Kimia Farma's (non-authentic) sales and branch performance data using SQL and Google Looker Studio. The objective is to create an interactive dashboard to provide actionable insights, supporting data-driven decision-making processes.
